@@ -4,6 +4,6 @@
   "dependencies": {},
   "engines": {
     "node": "12.16.1",
-    "yarn": "1.21.1"
+    "npm": "6.2.0"
   }
 }
