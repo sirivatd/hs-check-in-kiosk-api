@@ -1,5 +1,9 @@
 {
   "name": "check-in-kiosk-api",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "engines": {
+    "node": "12.16.1",
+    "npm": "6.2.0"
+  }
 }
